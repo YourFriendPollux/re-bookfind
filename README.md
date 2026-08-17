@@ -102,8 +102,8 @@ This application offers an efficient solution for the CDI staff and their users.
 
 ### Passive contributors
 
-[Pollux] --> just built the entire design and security system.
+[@Pollux](github.com/YourFriendPollux) --> just built the entire design and security system.
 
 ## License
 
-This project is distributed under the terms of the [AGPL-3.0](LICENSE) license. 2026 Chromared.
+This project is distributed under the terms of the [AGPL-3.0](LICENSE) license. 2026 Pollux.
