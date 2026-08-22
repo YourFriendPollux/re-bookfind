@@ -98,7 +98,7 @@ This application offers an efficient solution for the CDI staff and their users.
 
 ### Active contributors
 
-[@Sylvain Durif, le Grand Monarque, le Christ cosmique et le Messie lui-même](https://www.linkedin.com/in/sylvain-pierre-durif-26a92119/?locale=fr) --> Bénédiction Cosmique Hebdomadaire
+[@Sylvain Durif, the Cosmic Monarch, the Cosmic Christ, and the Messiah himself](https://www.linkedin.com/in/sylvain-pierre-durif-26a92119/?locale=fr) --> Weekly Cosmic Blessing
 
 ### Passive contributors
 
